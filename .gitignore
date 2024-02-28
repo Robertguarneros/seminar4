@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+#Json lock
+package-lock.json
+
+# TypeScript build output
+dist/
+
+# Environment variables file
+.env
+
+# IDE or editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.lock
+.DS_Store
